@@ -1,0 +1,26 @@
+.binaural-beats {
+    padding: 20px;
+    background: #f4f4f4;
+  }
+  
+  .binaural-beats h2 {
+    margin-bottom: 10px;
+  }
+  
+  .binaural-beats .categories {
+    margin-bottom: 20px;
+  }
+  
+  .binaural-beats button {
+    margin-right: 10px;
+    padding: 10px;
+    border: none;
+    background: #007bff;
+    color: white;
+    cursor: pointer;
+  }
+  
+  .binaural-beats button:hover {
+    background: #0056b3;
+  }
+  
